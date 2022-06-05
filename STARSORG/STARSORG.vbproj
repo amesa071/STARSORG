@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9E12268F-D60D-4AA0-94A9-23E75A45B7D6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>STARSORG.My.MyApplication</StartupObject>
+    <RootNamespace>STARSORG</RootNamespace>
+    <AssemblyName>STARSORG</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>STARSORG.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>STARSORG.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CAudit.vb" />
+    <Compile Include="CAudits.vb" />
+    <Compile Include="CCourse.vb" />
+    <Compile Include="CCourses.vb" />
+    <Compile Include="CDB.vb" />
+    <Compile Include="CEvent.vb" />
+    <Compile Include="CEvents.vb" />
+    <Compile Include="CEventType.vb" />
+    <Compile Include="CEventTypes.vb" />
+    <Compile Include="CMbrRole.vb" />
+    <Compile Include="CMbrRoles.vb" />
+    <Compile Include="CMember.vb" />
+    <Compile Include="CMembers.vb" />
+    <Compile Include="CRole.vb" />
+    <Compile Include="CRoles.vb" />
+    <Compile Include="CRSVP.vb" />
+    <Compile Include="CRSVPs.vb" />
+    <Compile Include="CSecurities.vb" />
+    <Compile Include="CSecurity.vb" />
+    <Compile Include="CSemester.vb" />
+    <Compile Include="CSemesters.vb" />
+    <Compile Include="frmAdmin.Designer.vb">
+      <DependentUpon>frmAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChangePassword.Designer.vb">
+      <DependentUpon>frmChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCourse.designer.vb">
+      <DependentUpon>frmCourse.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCourse.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCourseReport.designer.vb">
+      <DependentUpon>frmCourseReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCourseReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEvent.designer.vb">
+      <DependentUpon>frmEvent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEvent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogIn.Designer.vb">
+      <DependentUpon>frmLogIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMbrRole.designer.vb">
+      <DependentUpon>frmMbrRole.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMbrRole.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMemberReport.designer.vb">
+      <DependentUpon>frmMemberReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMemberReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMemberRoleReport.designer.vb">
+      <DependentUpon>frmMemberRoleReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMemberRoleReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMembers.designer.vb">
+      <DependentUpon>frmMembers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMembers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRole.Designer.vb">
+      <DependentUpon>frmRole.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRole.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRoleReport.Designer.vb">
+      <DependentUpon>frmRoleReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRoleReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRSVP.designer.vb">
+      <DependentUpon>frmRSVP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRSVP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRSVPReport.designer.vb">
+      <DependentUpon>frmRSVPReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRSVPReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSemester.designer.vb">
+      <DependentUpon>frmSemester.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSemester.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSemesterReport.designer.vb">
+      <DependentUpon>frmSemesterReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSemesterReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modDB.vb" />
+    <Compile Include="modErrHandler.vb" />
+    <Compile Include="modGlobal.vb" />
+    <Compile Include="modObjects.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAdmin.resx">
+      <DependentUpon>frmAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCourse.resx">
+      <DependentUpon>frmCourse.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCourseReport.resx">
+      <DependentUpon>frmCourseReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEvent.resx">
+      <DependentUpon>frmEvent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogIn.resx">
+      <DependentUpon>frmLogIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMbrRole.resx">
+      <DependentUpon>frmMbrRole.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMemberReport.resx">
+      <DependentUpon>frmMemberReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMemberRoleReport.resx">
+      <DependentUpon>frmMemberRoleReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMembers.resx">
+      <DependentUpon>frmMembers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRole.resx">
+      <DependentUpon>frmRole.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRoleReport.resx">
+      <DependentUpon>frmRoleReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRSVP.resx">
+      <DependentUpon>frmRSVP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRSVPReport.resx">
+      <DependentUpon>frmRSVPReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSemester.resx">
+      <DependentUpon>frmSemester.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSemesterReport.resx">
+      <DependentUpon>frmSemesterReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptCourses.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptMemberRoles.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptMembers.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptRoles.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptRSVPReport.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptSemesters.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\CMbrRole.datasource" />
+    <None Include="My Project\DataSources\CRole.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STARS-National-LOGO-NoGB.png" />
+    <None Include="Resources\_admin.png" />
+    <None Include="Resources\_courses.png" />
+    <None Include="Resources\_events.png" />
+    <None Include="Resources\_help.png" />
+    <None Include="Resources\_home.png" />
+    <None Include="Resources\_logout.png" />
+    <None Include="Resources\_member.png" />
+    <None Include="Resources\_roles.png" />
+    <None Include="Resources\_rsvp.png" />
+    <None Include="Resources\_semesters.png" />
+    <None Include="Resources\_tutors.png" />
+    <None Include="Resources\_member-role.png" />
+    <Content Include="Resources\testphoto1.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\testphoto2.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\testphoto3.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\testphoto4.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\testuser.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="SqlServerTypes\Loader.cs" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

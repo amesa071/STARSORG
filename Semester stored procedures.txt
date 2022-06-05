@@ -1,0 +1,44 @@
+CREATE PROCEDURE [dbo].sp_CheckSemesterIDExists
+	@semesterID nvarchar(4)
+	,@recCount int = 0 OUTPUT
+AS
+	BEGIN
+		SET @recCount = (Select count(0) FROM SEMESTER WHERE SemesterID=@semesterID)
+		SELECT @recCount As RecordCount
+	END
+RETURN 0
+
+CREATE PROCEDURE [dbo].sp_getSemesterBySemesterID
+	@semesterID nvarchar(4)
+AS
+	SELECT * FROM SEMESTER
+	WHERE SemesterID=@semesterID
+RETURN 0
+
+CREATE PROCEDURE [dbo].sp_saveSemester
+     @semesterID nvarchar(4)
+	,@semesterDescription nvarchar(100)
+AS
+	DECLARE @countExists int
+	SELECT @countExists=count(0) FROM SEMESTER WHERE @semesterID=SemesterID
+	IF (@countExists=0)
+	BEGIN
+		INSERT INTO [dbo].SEMESTER
+			(
+			SemesterID
+			,SemesterDescription
+			)
+			VALUES
+			(
+			@semesterID
+			,@semesterDescription
+			)
+	END
+	ELSE
+	BEGIN
+		UPDATE [dbo].SEMESTER
+		SET
+		[SemesterDescription]=@semesterDescription
+		WHERE SemesterID =@semesterID
+		END
+RETURN @@error

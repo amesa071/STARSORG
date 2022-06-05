@@ -1,0 +1,2 @@
+SECURITY table stores member user ids and passwords
+MEMBER table stores personal info, like first name, lastname, phone, etc.

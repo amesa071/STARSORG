@@ -1,0 +1,200 @@
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\STARSORG.exe.config
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\STARSORG.exe
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\STARSORG.pdb
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\STARSORG.xml
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmAdmin.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmLogIn.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmMain.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmRole.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.Resources.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.GenerateResource.cache
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.CoreCompileInputs.cache
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.exe
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.xml
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.pdb
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.AssemblyReference.cache
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\EnvDTE.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\stdole.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Microsoft.MSXML.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.CopyComplete
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmChangePassword.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\RdlCompile.cache
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\RdlCompile.compiled
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmRoleReport.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Reports\rptRoles.rdlc
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmEvent.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmRSVP.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmRSVPReport.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmCourse.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmCourseReport.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmSemester.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmSemesterReport.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Reports\rptCourses.rdlc
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Reports\rptRSVPReport.rdlc
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Reports\rptSemesters.rdlc
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmMbrRole.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmMemberReport.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmMemberRoleReport.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\obj\Debug\STARSORG.frmMembers.resources
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Resources\testphoto1.jpg
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Resources\testphoto2.jpg
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Resources\testphoto3.jpg
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Resources\testphoto4.jpg
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Resources\testuser.png
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Reports\rptMembers.rdlc
+C:\Users\alec_\source\repos\STARSORG\STARSORG\bin\Debug\Reports\rptMemberRoles.rdlc
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Resources\testphoto1.jpg
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Resources\testphoto2.jpg
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Resources\testphoto3.jpg
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Resources\testphoto4.jpg
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Reports\rptCourses.rdlc
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Reports\rptMemberRoles.rdlc
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Reports\rptMembers.rdlc
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Reports\rptRoles.rdlc
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Reports\rptRSVPReport.rdlc
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Reports\rptSemesters.rdlc
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Resources\testuser.png
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\STARSORG.exe.config
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\STARSORG.exe
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\STARSORG.pdb
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\STARSORG.xml
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\EnvDTE.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\stdole.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\Microsoft.MSXML.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.AssemblyReference.cache
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.frmAdmin.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.frmChangePassword.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.frmCourse.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.frmCourseReport.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.frmEvent.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.frmLogIn.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.frmMain.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.frmMbrRole.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.frmMemberReport.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.frmMemberRoleReport.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.frmMembers.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.frmRole.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.frmRoleReport.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.frmRSVP.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.frmRSVPReport.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.frmSemester.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.frmSemesterReport.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.Resources.resources
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.GenerateResource.cache
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\RdlCompile.cache
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\RdlCompile.compiled
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.CoreCompileInputs.cache
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.vbproj.CopyComplete
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.exe
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.xml
+F:\School Files\FIU Files\COP 4005 Windows Prog\STARSORG\STARSORG\obj\Debug\STARSORG.pdb
